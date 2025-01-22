@@ -38,6 +38,7 @@
       "Project2.UnitTests/1.0.0": {
         "dependencies": {
           "FluentAssertions": "6.12.2",
+          "MediatR": "12.4.1",
           "Microsoft.Extensions.Configuration": "9.0.0",
           "Microsoft.Extensions.Configuration.Json": "9.0.0",
           "Microsoft.Extensions.DependencyInjection": "9.0.1",

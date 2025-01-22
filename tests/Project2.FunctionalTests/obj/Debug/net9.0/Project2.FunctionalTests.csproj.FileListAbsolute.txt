@@ -503,3 +503,4 @@ D:\Projects\Project2\tests\Project2.FunctionalTests\obj\Debug\net9.0\Project2.Fu
 D:\Projects\Project2\tests\Project2.FunctionalTests\obj\Debug\net9.0\ref\Project2.FunctionalTests.dll
 D:\Projects\Project2\tests\Project2.FunctionalTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Projects\Project2\tests\Project2.FunctionalTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Project2\tests\Project2.FunctionalTests\obj\Debug\net9.0\Project2.FunctionalTests.sourcelink.json

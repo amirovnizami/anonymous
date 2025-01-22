@@ -4,38 +4,6 @@
         <name>Project2.Web</name>
     </assembly>
     <members>
-        <member name="T:Project2.Web.Branches.Create">
-            <summary>
-            Create a new Branch
-            </summary>
-            <remarks>
-            Creates a new Branch given a name and category.
-            </remarks>
-        </member>
-        <member name="M:Project2.Web.Branches.Create.#ctor(MediatR.IMediator)">
-            <summary>
-            Create a new Branch
-            </summary>
-            <remarks>
-            Creates a new Branch given a name and category.
-            </remarks>
-        </member>
-        <member name="T:Project2.Web.Branches.List">
-            <summary>
-            List all Contributors
-            </summary>
-            <remarks>
-            List all contributors - returns a ContributorListResponse containing the Contributors.
-            </remarks>
-        </member>
-        <member name="M:Project2.Web.Branches.List.#ctor(MediatR.IMediator)">
-            <summary>
-            List all Contributors
-            </summary>
-            <remarks>
-            List all contributors - returns a ContributorListResponse containing the Contributors.
-            </remarks>
-        </member>
         <member name="T:Project2.Web.Contributors.CreateContributorValidator">
             <summary>
             See: https://fast-endpoints.com/docs/validation
@@ -113,24 +81,6 @@
             </summary>
             <remarks>
             List all contributors - returns a ContributorListResponse containing the Contributors.
-            </remarks>
-        </member>
-        <member name="T:Project2.Web.Contributors.Update">
-            <summary>
-            Update an existing Contributor.
-            </summary>
-            <remarks>
-            Update an existing Contributor by providing a fully defined replacement set of values.
-            See: https://stackoverflow.com/questions/60761955/rest-update-best-practice-put-collection-id-without-id-in-body-vs-put-collecti
-            </remarks>
-        </member>
-        <member name="M:Project2.Web.Contributors.Update.#ctor(MediatR.IMediator)">
-            <summary>
-            Update an existing Contributor.
-            </summary>
-            <remarks>
-            Update an existing Contributor by providing a fully defined replacement set of values.
-            See: https://stackoverflow.com/questions/60761955/rest-update-best-practice-put-collection-id-without-id-in-body-vs-put-collecti
             </remarks>
         </member>
         <member name="T:Project2.Web.Contributors.UpdateContributorValidator">
