@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" />
     <PackageReference Include="FluentAssertions" />
     <PackageReference Include="MediatR" />
     <PackageReference Include="Microsoft.Extensions.Configuration" />

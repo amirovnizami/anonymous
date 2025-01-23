@@ -504,3 +504,5 @@ D:\Projects\Project2\tests\Project2.FunctionalTests\obj\Debug\net9.0\ref\Project
 D:\Projects\Project2\tests\Project2.FunctionalTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Projects\Project2\tests\Project2.FunctionalTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Projects\Project2\tests\Project2.FunctionalTests\obj\Debug\net9.0\Project2.FunctionalTests.sourcelink.json
+D:\Projects\Project2\tests\Project2.FunctionalTests\bin\Debug\net9.0\AutoMapper.dll
+D:\Projects\Project2\tests\Project2.FunctionalTests\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XKzeLuyIHvs=",
+  "dgSpecHash": "xD5RC+9blhE=",
   "success": true,
   "projectFilePath": "D:\\Projects\\Project2\\tests\\Project2.FunctionalTests\\Project2.FunctionalTests.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,8 @@
     "C:\\Users\\amiro\\.nuget\\packages\\ardalis.smartenum\\8.2.0\\ardalis.smartenum.8.2.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\8.0.0\\ardalis.specification.entityframeworkcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\amiro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\amiro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\azure.identity\\1.13.1\\azure.identity.1.13.1.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
@@ -32,7 +34,7 @@
     "C:\\Users\\amiro\\.nuget\\packages\\microsoft.aspnetcore.testhost\\9.0.0\\microsoft.aspnetcore.testhost.9.0.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
-    "C:\\Users\\amiro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\amiro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.6\\microsoft.data.sqlclient.5.1.6.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

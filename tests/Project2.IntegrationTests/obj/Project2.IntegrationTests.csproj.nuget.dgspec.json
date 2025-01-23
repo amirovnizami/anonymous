@@ -78,6 +78,16 @@
               "version": "[8.0.0, )",
               "versionCentrallyManaged": true
             },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )",
@@ -114,6 +124,8 @@
             "Ardalis.SmartEnum": "8.2.0",
             "Ardalis.Specification": "8.0.0",
             "Ardalis.Specification.EntityFrameworkCore": "8.0.0",
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
@@ -231,6 +243,11 @@
               "version": "[8.0.0, )",
               "versionCentrallyManaged": true
             },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
             "Azure.Identity": {
               "target": "Package",
               "version": "[1.13.1, )",
@@ -303,6 +320,8 @@
             "Ardalis.SmartEnum": "8.2.0",
             "Ardalis.Specification": "8.0.0",
             "Ardalis.Specification.EntityFrameworkCore": "8.0.0",
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
@@ -412,6 +431,11 @@
               "version": "[10.1.0, )",
               "versionCentrallyManaged": true
             },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )",
@@ -455,6 +479,8 @@
             "Ardalis.SmartEnum": "8.2.0",
             "Ardalis.Specification": "8.0.0",
             "Ardalis.Specification.EntityFrameworkCore": "8.0.0",
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
@@ -562,6 +588,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )",
@@ -627,6 +658,8 @@
             "Ardalis.SmartEnum": "8.2.0",
             "Ardalis.Specification": "8.0.0",
             "Ardalis.Specification.EntityFrameworkCore": "8.0.0",
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
@@ -734,6 +767,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
             "FluentAssertions": {
               "target": "Package",
               "version": "[6.12.2, )",
@@ -804,6 +842,8 @@
             "Ardalis.SmartEnum": "8.2.0",
             "Ardalis.Specification": "8.0.0",
             "Ardalis.Specification.EntityFrameworkCore": "8.0.0",
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",

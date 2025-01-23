@@ -473,3 +473,5 @@ D:\Projects\Project2\tests\Project2.IntegrationTests\obj\Debug\net9.0\ref\Projec
 D:\Projects\Project2\tests\Project2.IntegrationTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Projects\Project2\tests\Project2.IntegrationTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Projects\Project2\tests\Project2.IntegrationTests\obj\Debug\net9.0\Project2.IntegrationTests.sourcelink.json
+D:\Projects\Project2\tests\Project2.IntegrationTests\bin\Debug\net9.0\AutoMapper.dll
+D:\Projects\Project2\tests\Project2.IntegrationTests\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

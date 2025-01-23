@@ -2,6 +2,7 @@
   <Sdk Name="Microsoft.Build.CentralPackageVersions" Version="2.1.3" />
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" />
     <PackageReference Include="FluentAssertions" />
     <PackageReference Include="MediatR" />
     <PackageReference Include="Microsoft.Extensions.Configuration" />
