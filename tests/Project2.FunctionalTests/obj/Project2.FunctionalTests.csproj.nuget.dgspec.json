@@ -649,6 +649,11 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )",
+              "versionCentrallyManaged": true
             }
           },
           "centralPackageVersions": {
