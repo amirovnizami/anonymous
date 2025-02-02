@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\Projects\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Project2\\src\\Project2.Web\\Branches\\Update\\Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Project2.Web\\Branches\\Update\\Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|d:\\projects\\project2\\src\\project2.usecases\\feedbacks\\create\\createfeedbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|solutionrelative:src\\project2.usecases\\feedbacks\\create\\createfeedbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|d:\\projects\\project2\\src\\project2.usecases\\branches\\create\\createbranchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|solutionrelative:src\\project2.usecases\\branches\\create\\createbranchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|d:\\projects\\project2\\src\\project2.usecases\\feedbacks\\create\\createfeedbackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|solutionrelative:src\\project2.usecases\\feedbacks\\create\\createfeedbackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\feedbackagrregate\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\feedbackagrregate\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\categoryaggregate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\categoryaggregate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|d:\\projects\\project2\\src\\project2.infrastructure\\data\\appdbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|solutionrelative:src\\project2.infrastructure\\data\\appdbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|d:\\projects\\project2\\src\\project2.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|solutionrelative:src\\project2.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|d:\\projects\\project2\\src\\project2.infrastructure\\data\\queries\\listcategoriesqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|solutionrelative:src\\project2.infrastructure\\data\\queries\\listcategoriesqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|d:\\projects\\project2\\src\\project2.infrastructure\\data\\queries\\listbranchesqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Project2.Infrastructure\\Project2.Infrastructure.csproj|solutionrelative:src\\project2.infrastructure\\data\\queries\\listbranchesqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\statusagrregate\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\statusagrregate\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\branchaggregate\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\branchaggregate\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Update.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Web\\Branches\\Update\\Update.cs",
-              "RelativeDocumentMoniker": "src\\Project2.Web\\Branches\\Update\\Update.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Web\\Branches\\Update\\Update.cs",
-              "RelativeToolTip": "src\\Project2.Web\\Branches\\Update\\Update.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateFeedbackCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
+              "RelativeDocumentMoniker": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
+              "RelativeToolTip": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T11:09:52.593Z",
+              "WhenOpened": "2025-01-31T06:40:34.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBranchHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Branches\\Create\\CreateBranchHandler.cs",
+              "RelativeDocumentMoniker": "src\\Project2.UseCases\\Branches\\Create\\CreateBranchHandler.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Branches\\Create\\CreateBranchHandler.cs",
+              "RelativeToolTip": "src\\Project2.UseCases\\Branches\\Create\\CreateBranchHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:31:55.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateFeedbackHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
+              "RelativeDocumentMoniker": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
+              "RelativeToolTip": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:19:43.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\AppDbContextExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Infrastructure\\Data\\AppDbContextExtensions.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\AppDbContextExtensions.cs",
+              "RelativeToolTip": "src\\Project2.Infrastructure\\Data\\AppDbContextExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:27:59.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs",
+              "RelativeToolTip": "src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:06:50.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\CategoryAggregate\\Category.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Core\\CategoryAggregate\\Category.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\CategoryAggregate\\Category.cs",
+              "RelativeToolTip": "src\\Project2.Core\\CategoryAggregate\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:06:16.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Project2.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:23:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListCategoriesQueryService.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\Queries\\ListCategoriesQueryService.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Infrastructure\\Data\\Queries\\ListCategoriesQueryService.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\Queries\\ListCategoriesQueryService.cs",
+              "RelativeToolTip": "src\\Project2.Infrastructure\\Data\\Queries\\ListCategoriesQueryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:23:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListBranchesQueryService.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\Queries\\ListBranchesQueryService.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Infrastructure\\Data\\Queries\\ListBranchesQueryService.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Infrastructure\\Data\\Queries\\ListBranchesQueryService.cs",
+              "RelativeToolTip": "src\\Project2.Infrastructure\\Data\\Queries\\ListBranchesQueryService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:23:06.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\StatusAgrregate\\Status.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Core\\StatusAgrregate\\Status.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\StatusAgrregate\\Status.cs",
+              "RelativeToolTip": "src\\Project2.Core\\StatusAgrregate\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:19:08.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\BranchAggregate\\Branch.cs",
+              "RelativeDocumentMoniker": "src\\Project2.Core\\BranchAggregate\\Branch.cs",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\BranchAggregate\\Branch.cs",
+              "RelativeToolTip": "src\\Project2.Core\\BranchAggregate\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:15:12.979Z",
               "EditorCaption": ""
             }
           ]
