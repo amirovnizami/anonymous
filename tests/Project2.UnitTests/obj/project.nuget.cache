@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "1fuSxWhuft0=",
-  "success": true,
+  "dgSpecHash": "DieVTxxFUcs=",
+  "success": false,
   "projectFilePath": "D:\\Projects\\Project2\\tests\\Project2.UnitTests\\Project2.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amiro\\.nuget\\packages\\ardalis.guardclauses\\5.0.0\\ardalis.guardclauses.5.0.0.nupkg.sha512",
@@ -13,6 +13,9 @@
     "C:\\Users\\amiro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\amiro\\.nuget\\packages\\bcrypt.net-core\\1.0.0\\bcrypt.net-core.1.0.0.nupkg.sha512",
+    "C:\\Users\\amiro\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\amiro\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\fluentassertions\\6.12.2\\fluentassertions.6.12.2.nupkg.sha512",
@@ -95,5 +98,24 @@
     "C:\\Users\\amiro\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.0-pre.49\\xunit.runner.visualstudio.3.0.0-pre.49.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency BCrypt.Net-Core does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "BCrypt.Net-Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Error",
+      "message": "Warning As Error: Package 'BCrypt.Net-Core 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt.Net-Core",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

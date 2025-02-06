@@ -88,6 +88,11 @@
               "version": "[12.0.1, )",
               "versionCentrallyManaged": true
             },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )",
+              "versionCentrallyManaged": true
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )",
@@ -127,6 +132,8 @@
             "AutoMapper": "12.0.1",
             "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "BouncyCastle.Cryptography": "2.4.0",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
             "FastEndpoints.ApiExplorer": "2.2.0",
@@ -253,6 +260,10 @@
               "version": "[1.13.1, )",
               "versionCentrallyManaged": true
             },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.8.0, )",
@@ -323,6 +334,8 @@
             "AutoMapper": "12.0.1",
             "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "BouncyCastle.Cryptography": "2.4.0",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
             "FastEndpoints.ApiExplorer": "2.2.0",
@@ -436,6 +449,16 @@
               "version": "[12.0.1, )",
               "versionCentrallyManaged": true
             },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )",
+              "versionCentrallyManaged": true
+            },
+            "BouncyCastle.Cryptography": {
+              "target": "Package",
+              "version": "[2.4.0, )",
+              "versionCentrallyManaged": true
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )",
@@ -482,6 +505,8 @@
             "AutoMapper": "12.0.1",
             "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "BouncyCastle.Cryptography": "2.4.0",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
             "FastEndpoints.ApiExplorer": "2.2.0",
@@ -593,6 +618,10 @@
               "version": "[12.0.1, )",
               "versionCentrallyManaged": true
             },
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "(, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )",
@@ -661,6 +690,8 @@
             "AutoMapper": "12.0.1",
             "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "BouncyCastle.Cryptography": "2.4.0",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
             "FastEndpoints.ApiExplorer": "2.2.0",
@@ -772,6 +803,10 @@
               "version": "[12.0.1, )",
               "versionCentrallyManaged": true
             },
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "(, )"
+            },
             "FluentAssertions": {
               "target": "Package",
               "version": "[6.12.2, )",
@@ -845,6 +880,8 @@
             "AutoMapper": "12.0.1",
             "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
             "Azure.Identity": "1.13.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "BouncyCastle.Cryptography": "2.4.0",
             "coverlet.collector": "6.0.2",
             "FastEndpoints": "5.33.0.9-beta",
             "FastEndpoints.ApiExplorer": "2.2.0",
