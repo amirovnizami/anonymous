@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\feedbackagrregate\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\feedbackagrregate\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\statusagrregate\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\statusagrregate\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\branchaggregate\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\branchaggregate\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|d:\\projects\\project2\\src\\project2.core\\categoryaggregate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Project2.Core\\Project2.Core.csproj|solutionrelative:src\\project2.core\\categoryaggregate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|d:\\projects\\project2\\src\\project2.usecases\\feedbacks\\create\\createfeedbackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|solutionrelative:src\\project2.usecases\\feedbacks\\create\\createfeedbackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|d:\\projects\\project2\\src\\project2.usecases\\branches\\create\\createbranchcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|solutionrelative:src\\project2.usecases\\branches\\create\\createbranchcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|d:\\projects\\project2\\src\\project2.usecases\\feedbacks\\create\\createfeedbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Project2.UseCases\\Project2.UseCases.csproj|solutionrelative:src\\project2.usecases\\feedbacks\\create\\createfeedbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Project2.Web\\Project2.Web.csproj|d:\\projects\\project2\\src\\project2.web\\project2.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Project2.Web\\Project2.Web.csproj|solutionrelative:src\\project2.web\\project2.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Status.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\StatusAgrregate\\Status.cs",
-              "RelativeDocumentMoniker": "src\\Project2.Core\\StatusAgrregate\\Status.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\StatusAgrregate\\Status.cs*",
-              "RelativeToolTip": "src\\Project2.Core\\StatusAgrregate\\Status.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:19:08.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\BranchAggregate\\Branch.cs",
-              "RelativeDocumentMoniker": "src\\Project2.Core\\BranchAggregate\\Branch.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\BranchAggregate\\Branch.cs",
-              "RelativeToolTip": "src\\Project2.Core\\BranchAggregate\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:15:12.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs",
-              "RelativeDocumentMoniker": "src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs*",
-              "RelativeToolTip": "src\\Project2.Core\\FeedbackAgrregate\\Feedback.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:06:50.223Z",
+              "Title": "Project2.Web",
+              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Web\\Project2.Web.csproj",
+              "RelativeDocumentMoniker": "src\\Project2.Web\\Project2.Web.csproj",
+              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Web\\Project2.Web.csproj*",
+              "RelativeToolTip": "src\\Project2.Web\\Project2.Web.csproj*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T11:32:25.751Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.Core\\CategoryAggregate\\Category.cs",
-              "RelativeDocumentMoniker": "src\\Project2.Core\\CategoryAggregate\\Category.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.Core\\CategoryAggregate\\Category.cs",
-              "RelativeToolTip": "src\\Project2.Core\\CategoryAggregate\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:06:16.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateFeedbackCommand.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
-              "RelativeDocumentMoniker": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
-              "RelativeToolTip": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:26:04.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateBranchCommand.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Branches\\Create\\CreateBranchCommand.cs",
-              "RelativeDocumentMoniker": "src\\Project2.UseCases\\Branches\\Create\\CreateBranchCommand.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Branches\\Create\\CreateBranchCommand.cs",
-              "RelativeToolTip": "src\\Project2.UseCases\\Branches\\Create\\CreateBranchCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:24:35.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateFeedbackHandler.cs",
-              "DocumentMoniker": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
-              "RelativeDocumentMoniker": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
-              "ToolTip": "D:\\Projects\\Project2\\src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
-              "RelativeToolTip": "src\\Project2.UseCases\\Feedbacks\\Create\\CreateFeedbackHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:19:43.076Z"
             }
           ]
         }

@@ -1,5 +1,4 @@
-﻿using Project2.Core.ContributorAggregate;
-using Project2.Infrastructure.Data;
+﻿using Project2.Infrastructure.Data;
 
 namespace Project2.IntegrationTests.Data;
 
@@ -32,8 +31,4 @@ public abstract class BaseEfRepoTestFixture
     return builder.Options;
   }
 
-  protected EfRepository<Contributor> GetRepository()
-  {
-    return new EfRepository<Contributor>(_dbContext);
-  }
 }

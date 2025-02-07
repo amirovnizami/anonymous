@@ -98,6 +98,11 @@
               "version": "[12.4.1, )",
               "versionCentrallyManaged": true
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "versionCentrallyManaged": true
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[9.0.0, )",
@@ -142,6 +147,8 @@
             "FluentAssertions": "6.12.2",
             "MailKit": "4.8.0",
             "MediatR": "12.4.1",
+            "Microsoft.AspNetCore.Authentication.Core": "2.3.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.1",
             "Microsoft.AspNetCore.Mvc.Testing": "9.0.0",
             "Microsoft.EntityFrameworkCore.Design": "9.0.0",
             "Microsoft.EntityFrameworkCore.InMemory": "9.0.0",
@@ -155,6 +162,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
             "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "Microsoft.OpenApi": "1.2.3",
             "NSubstitute": "5.3.0",
             "ReportGenerator": "5.4.1",
             "Serilog.AspNetCore": "8.0.3",
@@ -262,6 +270,11 @@
               "version": "[12.4.1, )",
               "versionCentrallyManaged": true
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "versionCentrallyManaged": true
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )",
@@ -313,6 +326,8 @@
             "FluentAssertions": "6.12.2",
             "MailKit": "4.8.0",
             "MediatR": "12.4.1",
+            "Microsoft.AspNetCore.Authentication.Core": "2.3.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.1",
             "Microsoft.AspNetCore.Mvc.Testing": "9.0.0",
             "Microsoft.EntityFrameworkCore.Design": "9.0.0",
             "Microsoft.EntityFrameworkCore.InMemory": "9.0.0",
@@ -326,6 +341,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
             "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "Microsoft.OpenApi": "1.2.3",
             "NSubstitute": "5.3.0",
             "ReportGenerator": "5.4.1",
             "Serilog.AspNetCore": "8.0.3",
@@ -503,6 +519,8 @@
             "FluentAssertions": "6.12.2",
             "MailKit": "4.8.0",
             "MediatR": "12.4.1",
+            "Microsoft.AspNetCore.Authentication.Core": "2.3.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.1",
             "Microsoft.AspNetCore.Mvc.Testing": "9.0.0",
             "Microsoft.EntityFrameworkCore.Design": "9.0.0",
             "Microsoft.EntityFrameworkCore.InMemory": "9.0.0",
@@ -516,6 +534,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
             "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "Microsoft.OpenApi": "1.2.3",
             "NSubstitute": "5.3.0",
             "ReportGenerator": "5.4.1",
             "Serilog.AspNetCore": "8.0.3",

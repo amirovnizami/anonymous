@@ -1,5 +1,4 @@
-﻿using Project2.Core.ContributorAggregate;
-
+﻿
 namespace Project2.IntegrationTests.Data;
 
 public class EfRepositoryAdd : BaseEfRepoTestFixture
@@ -8,12 +7,8 @@ public class EfRepositoryAdd : BaseEfRepoTestFixture
   public async Task AddsContributorAndSetsId()
   {
     var testContributorName = "testContributor";
-    var testContributorStatus = ContributorStatus.NotSet;
-    var repository = GetRepository();
-    var Contributor = new Contributor(testContributorName);
 
     await repository.AddAsync(Contributor);
-
     var newContributor = (await repository.ListAsync())
                     .FirstOrDefault();
 
